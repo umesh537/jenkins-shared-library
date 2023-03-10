@@ -5,3 +5,5 @@ def call(){
     echo "building the application..."
     sh 'mvn package'
 }
+
+return this
